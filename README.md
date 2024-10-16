@@ -66,7 +66,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/NafiulHasan41/NafiulHasan41/output/snake.svg" alt="Snake animation" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGCSf1wQxh2SA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714700920588?e=1734566400&v=beta&t=2EsIfCnP7wmdTfSc3aS5CunLQ_YqwJIbXfAeO3rgN7g" alt="nafiul" />
 
 ###
 
