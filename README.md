@@ -68,7 +68,7 @@
 
 <img src="https://media.licdn.com/dms/image/v2/D5616AQGCSf1wQxh2SA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714700920588?e=1734566400&v=beta&t=2EsIfCnP7wmdTfSc3aS5CunLQ_YqwJIbXfAeO3rgN7g" alt="nafiul" />
 
-<img src="github-user-contribution.svg" alt="nafiul" />
+<img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 
 ###
 
